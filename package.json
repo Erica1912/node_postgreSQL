@@ -1,0 +1,24 @@
+{
+  "name": "node_postgreSQL",
+  "version": "1.0.0",
+  "description": "Con node consultar una  base de datos en postgreSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erica1912/node_postgreSQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Erica1912/node_postgreSQL/issues"
+  },
+  "homepage": "https://github.com/Erica1912/node_postgreSQL#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.5.1"
+  }
+}
