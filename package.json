@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Erica1912/node_postgreSQL#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "pg": "^8.5.1",
     "postgres": "^1.0.2"
