@@ -5,11 +5,11 @@
 
 ***Instalaciones***
 Intalación de los paquetes de:
-  -Postgres
-  ´´´
-    npm install postgres
- ´´´
+
+  - Postgres
+  ```npm install postgres ```
   -Nodemon en modo developer
+  
   -Expres pg
   *Nota Importante*
     Es necario instalar Cors ya que la la app corre por dos puertos diferentes
