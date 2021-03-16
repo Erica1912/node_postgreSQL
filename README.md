@@ -1,6 +1,6 @@
 # node_postgreSQL
 
-**Crud con Node.js,  PostgreSQL y React**
+**Formulario de autenticación con Node.js,  PostgreSQL y React**
 
 
 ***Backend*** Node PostgreSQL
