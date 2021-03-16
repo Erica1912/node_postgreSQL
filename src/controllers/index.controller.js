@@ -44,7 +44,7 @@ const updateUser = async (req, res) => {
     [name, email, id]
   );
   console.log(response);
-  res.json("User Update succesfully");
+  res.json("User Update Succesfully");
 };
 
 const deleteUsers = async (req, res) => {
