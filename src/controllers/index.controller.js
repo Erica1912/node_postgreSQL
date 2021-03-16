@@ -17,7 +17,7 @@ const getUsers = async (req, res) => {
 const getUsersById = async (req, res) => {
   const id = req.params.id;
   const response = await pool.query("SELECT * FROM users where id = $1", [id]);
-  res.json(response.rows);
+  res.json(response.rows[0]);
   
 };
 
