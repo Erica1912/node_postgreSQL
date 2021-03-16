@@ -18,7 +18,7 @@ Intalación de los paquetes de:
   
   *Nota Importante*
     
-    Es necario instalar Cors ya que la la app corre por dos puertos diferentes
+   Es necario instalar Cors ya que la la app corre por dos puertos diferentes
   - cors
     ```npm i cors ```
   
@@ -30,8 +30,13 @@ Intalación de los paquetes de:
 - En la Objeto Pool tiene los datos de la conexión de la base de datos
 - Router se crearon las rutas utilizadas para realizar el llamado del api rest con el parámetro cors
 
+
+
+
 ***Frontend***
 React/ Hooks
+
+
 
 Se encuentra ubicado dentro del mismo repositorio en el proyecto [Frontend](https://github.com/Erica1912/frontend-formulario)
 para separar las lógicas, del backend y el frontend
@@ -39,4 +44,7 @@ para separar las lógicas, del backend y el frontend
 
 
 
+
+
+*Erica Ruiz*
 
