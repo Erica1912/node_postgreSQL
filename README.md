@@ -7,13 +7,19 @@
 Intalación de los paquetes de:
 
   - Postgres
-  ```npm install postgres ```
-  -Nodemon en modo developer
+   ```
+    npm i postgres
+  ```
+  - Nodemon en modo developer
+  ```npm i nodemon -D ```
   
-  -Expres pg
+  - Expres pg
+   ```brew install postgres ```
   *Nota Importante*
     Es necario instalar Cors ya que la la app corre por dos puertos diferentes
   - cors
+    ```npm i cors ```
+  
 
 ***Backend*** Node, PostgreSQL
 - Se crea una base de datos en postgreSQL 'Usuario' 
