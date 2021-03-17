@@ -18,7 +18,7 @@ Intalación de los paquetes de:
   
   *Nota Importante*
     
-   Es necario instalar Cors ya que la la app corre por dos puertos diferentes
+   Es necesario instalar Cors ya que la app corre por dos puertos diferentes
   - cors
     ```npm i cors ```
   
@@ -26,7 +26,7 @@ Intalación de los paquetes de:
 ***Backend*** Node, PostgreSQL
 - Se crea una base de datos en postgreSQL 'Usuario' 
     Los códigos del script para ejecutar la creación de la base de datos y la tabla users se encuentra en la ruta src/database/database.sql
-- Parcon Node.js que realizar las diferentes  (Create, Read, Update and Delete) CRUD.
+- Para la appi usamos Node.js que realizar las diferentes(Create, Read, Update and Delete) CRUD.
 - En la Objeto Pool tiene los datos de la conexión de la base de datos
 - Router se crearon las rutas utilizadas para realizar el llamado del api rest con el parámetro cors
 
