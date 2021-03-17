@@ -1,6 +1,6 @@
 # node_postgreSQL
 
-**Formulario de autenticación con Node.js,  PostgreSQL y React**
+**Creación de una Api Rest con Node.js,  PostgreSQL y React**
 
 
 ***Instalaciones***
